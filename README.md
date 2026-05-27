@@ -2,8 +2,6 @@
 
 **CurrenSee** is a Flutter-based currency companion app that provides real-time exchange rates, currency conversion, rate alerts, market news, and a full user account system — all wrapped in a clean gold-themed UI with dark mode support.
 
-> 4th Semester E-Project
-
 ---
 
 ## Tech Stack
